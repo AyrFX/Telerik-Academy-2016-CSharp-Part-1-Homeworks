@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Unicode Character", "04
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Boolean Variable", "05. Boolean Variable\05. Boolean Variable.csproj", "{EA92FD65-5AF6-4A7D-B9C8-7ABC47797344}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Strings and Objects", "06. Strings and Objects\06. Strings and Objects.csproj", "{7945E0C6-CF24-4EEE-89F0-54AEF1594DE0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{EA92FD65-5AF6-4A7D-B9C8-7ABC47797344}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EA92FD65-5AF6-4A7D-B9C8-7ABC47797344}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EA92FD65-5AF6-4A7D-B9C8-7ABC47797344}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7945E0C6-CF24-4EEE-89F0-54AEF1594DE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7945E0C6-CF24-4EEE-89F0-54AEF1594DE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7945E0C6-CF24-4EEE-89F0-54AEF1594DE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7945E0C6-CF24-4EEE-89F0-54AEF1594DE0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
