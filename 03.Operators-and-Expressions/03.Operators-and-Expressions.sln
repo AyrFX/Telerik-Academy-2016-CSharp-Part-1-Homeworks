@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Odd or Even", "01. Odd 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Moon Gravity", "02. Moon Gravity\02. Moon Gravity.csproj", "{A4EE5862-6819-4531-AE87-08CA222C3298}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Divide by 7 and 5", "03. Divide by 7 and 5\03. Divide by 7 and 5.csproj", "{9320C157-261B-4723-9389-26B3D5CF4F1B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{A4EE5862-6819-4531-AE87-08CA222C3298}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A4EE5862-6819-4531-AE87-08CA222C3298}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A4EE5862-6819-4531-AE87-08CA222C3298}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9320C157-261B-4723-9389-26B3D5CF4F1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9320C157-261B-4723-9389-26B3D5CF4F1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9320C157-261B-4723-9389-26B3D5CF4F1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9320C157-261B-4723-9389-26B3D5CF4F1B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
