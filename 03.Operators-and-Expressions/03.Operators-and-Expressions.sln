@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Moon Gravity", "02. Moo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Divide by 7 and 5", "03. Divide by 7 and 5\03. Divide by 7 and 5.csproj", "{9320C157-261B-4723-9389-26B3D5CF4F1B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Rectangles", "04. Rectangles\04. Rectangles.csproj", "{E92781E8-1848-4D22-9497-D14148EB0826}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{9320C157-261B-4723-9389-26B3D5CF4F1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9320C157-261B-4723-9389-26B3D5CF4F1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9320C157-261B-4723-9389-26B3D5CF4F1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E92781E8-1848-4D22-9497-D14148EB0826}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E92781E8-1848-4D22-9497-D14148EB0826}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E92781E8-1848-4D22-9497-D14148EB0826}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E92781E8-1848-4D22-9497-D14148EB0826}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
