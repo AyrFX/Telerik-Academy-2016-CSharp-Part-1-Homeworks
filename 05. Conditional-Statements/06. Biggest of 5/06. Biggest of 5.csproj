@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{C7197F03-5172-4A16-B533-C13B98B13D94}</ProjectGuid>
+    <ProjectGuid>{6E3D5BBE-B1F9-423C-BEF3-DF6F46402D73}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>_05.Biggest_of_3</RootNamespace>
-    <AssemblyName>_05.Biggest_of_3</AssemblyName>
+    <RootNamespace>_06.Biggest_of_5</RootNamespace>
+    <AssemblyName>_06.Biggest_of_5</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="BiggestOfThree.cs" />
+    <Compile Include="BiggestOfFive.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
